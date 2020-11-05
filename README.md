@@ -4,4 +4,5 @@ This repositorty contains a Jupyter Notebook & a Python file of Desktop Notifier
 (You can change the country)
 
 The Notification will look like this one👇
+
 ![Coronavirus Desktop Notifier](https://github.com/MohammedHamzaMalik/Coronavirus-Notifier/blob/main/Desktop%20Notifier.png)
